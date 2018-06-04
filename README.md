@@ -22,7 +22,7 @@ Variables {yy}{mm}-{0042} pour le premier compteur de 06/2018 : -1806-0042
     - Commande : CFO-1806-0042
     - Facture : FFO-1806-0042
     - Règlement : RFO-1806-0042
-  - Bien au catalogue: BB-1806-0042
+  - Bien au catalogue: PP-1806-0042
   - Service au catalogue : SS-1806-0042
     
     
