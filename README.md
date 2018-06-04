@@ -14,6 +14,7 @@ Variables {yy}{mm}-{0042} pour le premier compteur de 06/2018 : -1806-0042
     - Facture de remplacement : FR-1806-0042
     - Facture d'avoir : AV-1806-0042
     - Facture d'acompte : AC-1806-0042
+    - Règlement : RC-1806-0042
   - Fournisseur : FRN-1806-0042
     - Comptabilité : 401FRN-1806-0042
     - Devis : DDP-1806-0042
