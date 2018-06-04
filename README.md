@@ -1,4 +1,4 @@
 # si-doli
-### Utilisateurs & groupes
-   - [x] Email requis pour créer un nouvel utilisateur
-   - [ ] Génération depuis des modèles
+   - Email requis pour créer un nouvel utilisateur
+   - CL-1806-0042 & FO-1806-0042
+
