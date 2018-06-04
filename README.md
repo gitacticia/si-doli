@@ -21,7 +21,8 @@
     - Bien : PP-1806-0042
     - Service : SS-1806-0042
 # Trigrammes
-  - Fournisseur : FRN-1806-0042
+  - Fournisseur
+    - Code : FRN-1806-0042
     - Comptabilité : 401FRN-1806-0042
     - Devis : DDP-1806-0042
     - Commande : CFO-1806-0042
